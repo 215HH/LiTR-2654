@@ -10,7 +10,7 @@ VDT-2048：The VDT-2048 results can be down  [here](https://pan.baidu.com/s/1aZb
 LiTR-2654：The LiTR-2654 results can be down [here](https://pan.baidu.com/s/19EZJG_Z8V3uqgO6uJpAJ_A=6hr3
 )
 
-​            The LiTR-2654 GT can be down [here](https://pan.baidu.com/s/1rop0FKLcqrVHkWHIG_Wy3A=h45n
+The LiTR-2654 GT can be down [here](https://pan.baidu.com/s/1Nx8YCiBLR_35CBDmYskl5g=6sng
 )
 
 
