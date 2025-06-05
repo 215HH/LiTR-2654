@@ -5,7 +5,8 @@ The code is coming soon！
 # LiTR-2654 Dataset Analysis
 This dataset contains 2,654 image groups, each consisting of three modalities: RGB images, depth images, and thermal images. All images have the same resolution of 640×480. The proportions of different scenes and object categories are shown in the figure below.
 
-![7](https://github.com/user-attachments/assets/63a579d6-9a1e-454d-a44b-5cf49281d841)
+![7](https://github.com/user-attachments/assets/1accbfbf-a0bf-41d7-b4f1-8176d087a83f)
+
 
 
 # Results
