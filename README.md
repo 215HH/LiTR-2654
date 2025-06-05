@@ -7,10 +7,10 @@ The code is coming soon！
 VDT-2048：The VDT-2048 results can be down  [here](https://pan.baidu.com/s/1aZbVP7rBjMoYg-Fjy3QIHw&pwd=dnrv
 )
 
-LiTR-2654：The LiTR-2654 results can be down [here](https://pan.baidu.com/s/19EZJG_Z8V3uqgO6uJpAJ_A=6hr3
+LiTR-2654：The LiTR-2654 results can be down [here](https://pan.baidu.com/s/19EZJG_Z8V3uqgO6uJpAJ_A&pwd=6hr3
 )
 
-The LiTR-2654 GT can be down [here](https://pan.baidu.com/s/1Nx8YCiBLR_35CBDmYskl5g=6sng
+The LiTR-2654 GT can be down [here](https://pan.baidu.com/s/1Nx8YCiBLR_35CBDmYskl5g&pwd==6sng
 )
 
 
