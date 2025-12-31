@@ -7,8 +7,8 @@ This dataset contains 2,654 image groups, each consisting of three modalities: R
 
 ![7](https://github.com/user-attachments/assets/1accbfbf-a0bf-41d7-b4f1-8176d087a83f)
 
-
-
+The training dataset can be down [百度网盘](https://pan.baidu.com/s/18rrcfI3u2dVzAP9_Ox2r8Q&pwd=wpxp
+)
 # Results
 
 VDT-2048：The VDT-2048 results can be down  [here](https://pan.baidu.com/s/1aZbVP7rBjMoYg-Fjy3QIHw&pwd=dnrv
