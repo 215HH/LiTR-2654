@@ -7,8 +7,7 @@ This dataset contains 2,654 image groups, each consisting of three modalities: R
 
 ![7](https://github.com/user-attachments/assets/1accbfbf-a0bf-41d7-b4f1-8176d087a83f)
 
-The training dataset can be down [百度网盘](https://pan.baidu.com/s/18rrcfI3u2dVzAP9_Ox2r8Q&pwd=wpxp
-) and [google](https://drive.google.com/file/d/1tpfNOi8BuR6APXcAFXHnOhdvfBPwaJeo/view?usp=drive_link
+This repository hosts a randomly sampled subset of the dataset for demonstration and preliminary experimental preview. For access to the complete dataset, please contact the authors directly. The dataset can be down [百度网盘](https://pan.baidu.com/s/1HQiyoNj9ffO8NWE8-Xuseg&pwd=hsf6
 ) 
 # Results
 
