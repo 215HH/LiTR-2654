@@ -60,7 +60,8 @@ We provide the prediction results of our AFCRNet on two widely used VDT-SOD benc
 
 ## 💻 Code
 🚧 **The code is coming soon!**  
-We are currently organizing and cleaning the code. It will be released in this repository within 2 weeks. Please ⭐ Star this repository to get notified when the code is available.
+Thank you for your interest in our work! We are actively organizing and polishing the code to ensure its quality and readability.  
+Don't forget to ⭐ Star this repo — we'll notify all stargazers as soon as the code is released!
 
 ---
 
